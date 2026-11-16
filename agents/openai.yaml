@@ -1,0 +1,4 @@
+interface:
+  display_name: 批改网作文
+  short_description: 完成并提交 pigai.org 英语作文
+  default_prompt: 帮我完成批改网里这份作文作业，并把分数提到最高。
